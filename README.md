@@ -1,88 +1,66 @@
-<h1 align="center">Hi 👋, I'm Eng. Zaiun</h1>
-<h3 align="center">💻 Full Stack Desktop & Backend Developer (.NET Core & WinForms)</h3>
+<h1 align="center">I'm Eng. Zaiun</h1>
+
+<h2 align="center">Full Stack Desktop & Backend Developer (.NET Core & WinForms)</h2>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8E8&center=true&width=435&lines=Full+Stack+.NET+Developer;Backend+APIs+%7C+WinForms+%7C+WPF;T-SQL+%7C+EF-Core+%7C+ADO.NET;Always+learning+and+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00A8E8&center=true&width=480&lines=Professional+.NET+Developer;Desktop+and+Backend+Expert;WinForms+%7C+WPF+%7C+T-SQL+%7C+EF-Core;Passionate+about+architecture+and+optimization" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eng-ZAIUN&style=flat&color=00A8E8" height="25"/> <!-- Profile Views -->
+</p>
+
+<h3 align="center">📤 Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/zaiune" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>&nbsp;
+  <a href="https://t.me/z5_e5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45"/>
+  </a>&nbsp;
+  <a href="mailto:zaione.al.iraqi2015@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="45"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools:</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,sqlserver,efcore,ado,git,vs,postman,swagger,devexpress,questpdf" height="32"/>
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eng-ZAIUN&theme=onestar&row=1&column=7"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ZAIUN&layout=compact&theme=highcontrast" height="120"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Eng-ZAIUN&theme=highcontrast" height="120"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🧰 I develop professional desktop and backend applications using **.NET Core**, **C#**, **SQL Server**, and **WinForms**
-- 🧾 I specialize in **Entity Framework Core**, **ADO.NET**, and **T-SQL**
-- 🧪 Experienced with **Postman** and **Swagger** for RESTful API testing and documentation
-- 📦 Skilled in **software architecture**, **SOLID principles**, and **design patterns**
-- 📑 Familiar with building **professional reports** using **RDLC**, **DevExpress**, and **QuestPDF**
-- 🔧 I love solving problems and working on performance-optimized systems
 
----
-
-### 🛠️ Technologies & Tools
-
-#### 💻 Languages & Frameworks:
-- C#, C++
-- .NET Framework / .NET Core / ASP.NET Core (Web API)
-- EF-Core, ADO.NET, LINQ
-- WinForms, WPF
-
-#### 🌐 Frontend:
-- HTML5, CSS3, JavaScript, TypeScript
-
-#### 🗄️ Database & Query:
-- SQL Server, T-SQL
-- Database Design & Optimization
-
-#### 🔗 API Tools:
-- RESTful APIs, Postman, Swagger
-
-#### 🧠 Concepts & Practices:
-- SOLID Principles, Design Patterns
-- Data Structures & Algorithms
-
-#### 🧰 Tools:
-- Git, GitHub
-- Visual Studio, SSMS
-
-#### 📊 Reporting:
-- RDLC, DevExpress, QuestPDF
-
-#### 🧩 Soft Skills:
-- Problem Solving, Team Work, Time Management, Communication, Attention to Detail
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/zaiune" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-zaiune-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/z5_e5" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@z5_e5-2CA5E0?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="mailto:zaione.al.iraqi2015@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-zaione.al.iraqi2015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-ZAIUN&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ZAIUN&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-ZAIUN&theme=radical" />
-</div>
+- 🧰 I develop professional desktop and backend applications using **.NET Core**, **C#**, **SQL Server**, **WinForms**, and **WPF**
+- 🧾 Specializing in **Entity Framework Core**, **ADO.NET**, and **T-SQL**
+- 📦 Skilled in **software architecture**, **design patterns**, and **clean code**
+- 📑 Pro in building **professional reports** using **RDLC**, **DevExpress**, and **QuestPDF**
+- 🔧 Passionate about solving real-world problems and system optimization
 
 ---
 
 🛠️ _“Code is like humor. When you have to explain it, it’s bad.”_  
 — Cory House
+
